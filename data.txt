@@ -1,0 +1,24 @@
+        From worker 2:  k=0              score = 0.48760783033040067
+        From worker 2:  k = 2            score = 0.4631152783863395
+        From worker 2:  k = 3            score = 0.45526477196756043
+        From worker 2:  k = 18           score = 0.45484112752972305
+        From worker 2:  k = 22           score = 0.4541277634595876
+        From worker 2:  k = 46           score = 0.4498312446682751
+        From worker 2:  k = 48           score = 0.44782562998071584
+        From worker 2:  k = 67           score = 0.4414642210358874
+        From worker 2:  k = 302                  score = 0.43823314461651874
+        From worker 2:  k = 1081                 score = 0.43348762445754246
+        From worker 2:  k = 2613                 score = 0.4322877992805796
+        From worker 2:  k = 5361                 score = 0.42704034959512355
+        From worker 2:  k = 13673                score = 0.42658172800879807
+        From worker 2:  k = 14568                score = 0.4262759128597249
+        From worker 2:  k = 18542                score = 0.425949433864834
+        From worker 2:  k = 55763                score = 0.4255760262025501
+        From worker 2:  k = 127964               score = 0.4214709798038216
+        From worker 2:  k = 774458               score = 0.4200180616581451
+        From worker 2:  k = 1165406              score = 0.41913176541779446
+        From worker 2:  k = 2691365              score = 0.4171578095482671
+        From worker 2:  k = 4779992              score = 0.4152652505477657
+        From worker 2:  k = 12493564             score = 0.4130213505527
+        From worker 2:  k = 13556521             score = 0.4120800166834678
+        From worker 2:  k = 13633933             score = 0.40598162174882246
